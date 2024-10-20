@@ -29,10 +29,6 @@ I am _Prashast Bhardwaj_. I'm working remotely as a **Frontend Developer** 🚀 
 ### 🎊 Few of my awesome projects:
 - Real Estate App - Real Estate Listing Platform [(link)](https://real-estate-uwn4.onrender.com/)
 
-## Profile Github stats 🚀
-![Prashast's github stats](https://github-readme-stats.vercel.app/api?username=Prashastbhardwaj&show_icons=true&theme=tokyonight)
-![Prashast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashastbhardwaj&theme=tokyonight&layout=compact)
-
 ## Contact me : 
 
 <p align="center">
