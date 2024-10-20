@@ -28,3 +28,15 @@ I am _Prashast Bhardwaj_. I'm working remotely as a **Frontend Developer** 🚀 
 
 ### 🎊 Few of my awesome projects:
 - Real Estate App - Real Estate Listing Platform [(link)](https://real-estate-uwn4.onrender.com/)
+
+## Profile Github stats 🚀
+![Prashast's github stats](https://github-readme-stats.vercel.app/api?username=Prashastbhardwaj&show_icons=true&theme=tokyonight)
+![Prashast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashastbhardwaj&theme=tokyonight&layout=compact)
+
+## Contact me : 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prashast-bhardwaj"><img src="https://img.shields.io/badge/-Connect on Lin!-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:prashast.bhardwaj@gmail.com"><img src="https://img.shields.io/badge/-Mail me%3F -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/prashastx"><img src="https://img.shields.io/badge/-Connect on twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
