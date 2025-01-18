@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Prashast Bhardwaj_. I'm remotely as a **Frontend Developer** 🚀 for a Growing tech company. I'm highly skilled with **JavaScript/React.js** 💻 and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+I am _Prashast Bhardwaj_. I'm working as a **Frontend Developer** 🚀 for a Growing tech company. I'm highly skilled with **JavaScript/React.js** 💻 and all its associated runtimes. I've worked for various startups in the past and have built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
 
 ### 🌟 Technologies I've worked with:
 
